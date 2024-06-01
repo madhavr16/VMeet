@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "311167363665",
+    "project_id": "vchat-fca25",
+    "storage_bucket": "vchat-fca25.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:311167363665:android:67bdbd1f41421d40e5a670",
+        "android_client_info": {
+          "package_name": "com.example.v_meet"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBg_KAKcsL3Km5TsU4xiZQE0tQ9BcTS1pw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
